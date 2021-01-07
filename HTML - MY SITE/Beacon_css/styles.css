@@ -1,0 +1,32 @@
+h1{
+  color: red;
+  font-size: 200px;
+}
+
+body{
+  background-color: grey;
+}
+
+img{
+  background-color: red;
+}
+
+img:hover{
+  background-color: blue;
+}
+
+.baby{
+  background-color: green;
+}
+
+.Eli{
+  background-color: yellow;
+}
+
+#headings{
+  color: #66bfbf;
+}
+
+.circular{
+  border-radius: 100%;
+}
